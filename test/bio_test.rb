@@ -1,7 +1,7 @@
 #!/usr/env/ruby -w
 
 require 'test/unit'
-require '../lib/biolib.rb'
+require_relative '../lib/biolib.rb'
 
 class BioTest < Test::Unit::TestCase
 
